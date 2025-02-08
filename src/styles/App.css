@@ -1,0 +1,19 @@
+/* src/styles/App.css */
+.app-container {
+    min-height: 100vh;
+    background-color: #fce7f3; /* Light pink background */
+  }
+  
+  .content-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .app-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #db2777; /* Romantic pink color */
+  }
